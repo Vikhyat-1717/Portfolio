@@ -9,7 +9,7 @@ const projects = [
     description: 'A full-stack e-commerce platform with real-time inventory management and payment integration.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     image: '/projects/ecommerce.jpg',
-    github: 'https://github.com/yourusername/ecommerce',
+    github: 'https://github.com/Vikhyat-1717/E-commerce',
     demo: 'https://ecommerce-demo.com',
   },
   {
