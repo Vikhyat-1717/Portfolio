@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'E-Commerce Platform',
     description: 'A full-stack e-commerce platform with real-time inventory management and payment integration.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+    technologies: ['HTML', 'CSS', 'JavaScript'],
     image: '/projects/ecommerce.jpg',
     github: 'https://github.com/yourusername/ecommerce',
     demo: 'https://ecommerce-demo.com',
