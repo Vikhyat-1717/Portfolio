@@ -24,12 +24,6 @@ const skills = {
     { name: 'AWS', level: 70 },
     { name: 'CI/CD', level: 80 },
   ],
-  soft: [
-    { name: 'Communication', level: 90 },
-    { name: 'Problem Solving', level: 95 },
-    { name: 'Teamwork', level: 85 },
-    { name: 'Leadership', level: 80 },
-  ],
 };
 
 const SkillBar = ({ name, level }: { name: string; level: number }) => {
