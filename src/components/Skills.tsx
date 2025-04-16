@@ -11,6 +11,8 @@ const skills = {
     { name: 'HTML/CSS', level: 95 },
   ],
   backend: [
+    { name: 'Python', level: 85 },
+    { name: 'Java', level: 80 },
     { name: 'Node.js', level: 85 },
     { name: 'Express', level: 80 },
     { name: 'MongoDB', level: 75 },
