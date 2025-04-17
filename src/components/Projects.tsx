@@ -15,10 +15,10 @@ const projects = [
   {
     title: 'Task Management App',
     description: 'A collaborative task management application with real-time updates and team features.',
-    technologies: ['React', 'Firebase', 'Material-UI', 'Redux'],
+    technologies: ['React', 'TypeScript', 'Three.js', 'Material-UI', 'Framer Motion'],
     image: '/projects/taskmanager.jpg',
-    github: 'https://github.com/yourusername/taskmanager',
-    demo: 'https://taskmanager-demo.com',
+    github: 'https://github.com/Vikhyat-1717/TaskManagement',
+    demo: 'https://taskmanagervik.netlify.app/dashboard',
   },
   {
     title: 'Weather Dashboard',
