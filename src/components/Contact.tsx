@@ -169,7 +169,7 @@ const Contact = () => {
                 whileTap={{ scale: 0.95 }}
                 type="submit"
                 disabled={isSubmitting}
-                className="w-full bg-black hover:bg-gray-800 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
+                className="w-full bg-gray-900 hover:bg-black text-white px-6 py-3 rounded-lg font-semibold transition-colors"
               >
                 {isSubmitting ? 'Sending...' : 'Send Message'}
               </motion.button>

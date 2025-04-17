@@ -18,7 +18,7 @@ const projects = [
     technologies: ['React', 'TypeScript', 'Three.js', 'Material-UI', 'Framer Motion'],
     image: '/projects/taskmanager.jpg',
     github: 'https://github.com/Vikhyat-1717/TaskManagement',
-    demo: 'https://taskmanagervik.netlify.app/dashboard',
+    demo: 'https://taskmanagervik.netlify.app/',
   },
   {
     title: 'Weather Dashboard',
