@@ -10,7 +10,7 @@ const projects = [
     technologies: ['HTML', 'CSS', 'JavaScript'],
     image: '/projects/ecommerce.jpg',
     github: 'https://github.com/Vikhyat-1717/E-commerce',
-    demo: 'https://ecommerce-demo.com',
+    demo: 'https://vikminkcommerce.netlify.app/',
   },
   {
     title: 'Task Management App',
